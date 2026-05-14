@@ -2,7 +2,7 @@
 
 # João Lucas
 
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=300&size=13&duration=4000&pause=1500&color=666666&center=true&vCenter=true&width=520&lines=Desenvolvedor+Web+·+Desenvolvimento+de+Sistemas;Interfaces+responsivas+com+atenção+a+cada+detalhe.;Aberto+a+novas+oportunidades+·+Remoto+ou+presencial." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=300&size=13&duration=4000&pause=1500&color=666666&center=true&vCenter=true&width=520&lines=Desenvolvedor+Web;Desenvolvimento+de+Sistemas;Interfaces+responsivas+com+aten%C3%A7%C3%A3o+aos+detalhes.;Aberto+a+novas+oportunidades." alt="Typing SVG" />
 
 </div>
 
@@ -58,7 +58,7 @@ JavaScript (avançado)
 
 ### Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/jo%C3%A3o-lucas-lanes-1b3a57367/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/lanesjoaolucas/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-111111?style=flat-square&logo=vercel&logoColor=ffffff)](https://joaolucaslanes.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:lanesjoaolucas@gmail.com)
 
