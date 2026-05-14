@@ -8,7 +8,7 @@
 
 ---
 
-Sou estudante de Desenvolvimento de Sistemas com foco em desenvolvimento web. Já entreguei projeto para cliente — do levantamento de requisitos ao deploy — e mantenho portfólio com projetos funcionais e código público.
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web. Já entreguei projeto para cliente — do levantamento de requisitos ao deploy — e mantenho portfólio com projetos funcionais e código público.
 
 Meu diferencial não é a lista de tecnologias. É saber o que construir, por quê, e como fazer isso de forma limpa, responsiva e consistente.
 
